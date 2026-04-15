@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 个人简介 | Biography
+# 👨‍🏫个人简介 | Biography
 
 你好！我是 **汪琪 (Qi Wang)**，目前是 **[华中师范大学人工智能教育学部](https://foaie.ccnu.edu.cn/)** 教育技术学在读博士生。
 
@@ -41,11 +41,11 @@ redirect_from:
 目前，我已在 **CSSCI 核心期刊** 及 **SSCI** 期刊上发表多篇学术论文。如果你对我的研究感兴趣，欢迎通过邮件与我交流：
 📩 [albertwangqi@mails.ccnu.edu.cn](mailto:albertwangqi@mails.ccnu.edu.cn)
 
-# 🔥 News
+# 🔥新闻 |News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝出版物 | Publications 
 ## 🧠 中文期刊论文 
 
 - **[数字化赋能乡村科学教育：重点、难点及推进策略](https://doi.org/10.13694/j.cnki.ddjylt.20250107.001)** 付卫东,**汪琪**.*当代教育论坛*, 2025.<span style="color: #c62828; font-weight: bold;">[北大核心]</span>
@@ -56,7 +56,7 @@ redirect_from:
 
 ## 🌍 英文期刊论文
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-</div>
+
 
 
 
@@ -88,7 +88,7 @@ redirect_from:
         <div class="image-caption">格物致知</div>
     </div>
     <div class="grid-item">
-        <img src='images/3.jpg' alt="challenge_cup_defense">
+        <img src='images/p3.jpg' alt="challenge_cup_defense">
         <div class="image-caption">曲项向天歌</div>
     </div>
     <div class="grid-item">

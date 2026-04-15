@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "wang qi"
+title                    : "Wang Qi"
 description              : "教育技术学博士研究生 "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qi Wang"
   avatar           : "images/wang.png"
-  bio              : "Central China Normal University（华中师范大学）"
+  bio              : "Central China Normal University  华中师范大学"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
