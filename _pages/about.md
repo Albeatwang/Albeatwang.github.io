@@ -46,69 +46,90 @@ redirect_from:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-## 🌍 英文期刊论文 | English Journal Articles
+## 🧠 中文期刊论文 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'>
-    <div class='paper-box-text' markdown="1">
-    - [English Title of Your First Paper](https://doi.org/xxx)  
-    **Qi Wang**, Co-author A, Co-author B.  
-    *Journal Name*, 202X. <span style="color: #2e7d32; font-weight: bold;">[SSCI Q1]</span> [[DOI]](https://doi.org/xxx)
-    </div>
+- **[数字化赋能乡村科学教育：重点、难点及推进策略](https://doi.org/10.13694/j.cnki.ddjylt.20250107.001)** | 付卫东,**汪琪**.*当代教育论坛*, 2025.<span style="color: #c62828; font-weight: bold;">[北大核心]</span>
+
+- **[乡村教育数字化转型：价值意蕴、风险隐忧与策略调适](https://doi.org/10.13763/j.cnki.jhebnu.ese.2024.05.010)** | 付卫东,**汪琪**.*河北师范大学学报(教育科学版)*, 2024.<span style="color: #c62828; font-weight: bold;">[CSSCI]</span>
+
+- **[“双减”背景下课后服务中科学教育加法能否促进中小学生非认知能力发展——基于6省30个县(区)的调查](https://kns.cnki.net/kcms2/article/abstract?v=5e51ekeyRJb42TweTKR9J4ZJaomI5HiA6Yq9GHbxpiHMZd2JDPa8CRpu_X0hrm6m2c0fEYDzslkGyspTD0a5gj_uS7Es1Us-Qf10WRgTEWkSIEI-3IytgbiHJOsHedQrDqtO0MJZtgyQ3DzTdTsZjrzJbuZexwc8&uniplatform=NZKPT&language=CHS)** | 付卫东 张忠梅 **汪琪** 胡依然.*中国电化教育*, 2024.<span style="color: #c62828; font-weight: bold;">[CSSCI]</span>
+## 🌍 英文期刊论文
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+</div>
 </div>
 
-<div class='paper-box'>
-    <div class='paper-box-text' markdown="1">
-    - [English Title of Your Second Paper](https://doi.org/xxx)  
-    **Qi Wang**, Co-author A.  
-    *Journal Name*, 202X. <span style="color: #2e7d32; font-weight: bold;">[SSCI Q1/Q2]</span>
-    </div>
-</div>
 
-## 🌍 中文期刊论文 | Chinese Journal Articles
-
-<div class='paper-box'>
-    <div class='paper-box-text' markdown="1">
-    - [数字化赋能乡村科学教育：重点、难点及推进策略](https://doi.org/10.13694/j.cnki.ddjylt.20250107.001)  
-    付卫东, **汪琪**.  
-    *当代教育论坛*, 2025, (03): 59-68. <span style="color: #c62828; font-weight: bold;">[CSSCI]</span> [[DOI]](https://doi.org/10.13694/j.cnki.ddjylt.20250107.001)
-    </div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-text' markdown="1">
-    - [“双减”背景下课后服务中科学教育加法能否促进中小学生非认知能力发展——基于6省30个县(区)的调查](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=ZDDY202411006)  
-    付卫东, 张忠梅, **汪琪**, 等.  
-    *中国电化教育*, 2024, (11): 53-60. <span style="color: #c62828; font-weight: bold;">[CSSCI]</span>
-    </div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-text' markdown="1">
-    - [乡村教育数字化转型：价值意蕴、风险隐忧与策略调适](https://doi.org/10.13763/j.cnki.jhebnu.ese.2024.05.010)  
-    付卫东, **汪琪**.  
-    *河北师范大学学报(教育科学版)*, 2024, 26(05): 83-90. <span style="color: #c62828; font-weight: bold;">[CSSCI]</span> [[DOI]](https://doi.org/10.13694/j.cnki.jhebnu.ese.2024.05.010)
-    </div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-text' markdown="1">
-    - [智能时代乡村学生计算思维培养：内生逻辑、现实困境与实践进路](https://doi.org/10.16215/j.cnki.cn44-1371/g4.2024.03.006)  
-    付卫东, **汪琪**.  
-    *教育导刊*, 2024, (03): 34-42. <span style="color: #c62828; font-weight: bold;">[中文核心]</span> [[DOI]](https://doi.org/10.16215/j.cnki.cn44-1371/g4.2024.03.006)
-    </div>
-</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11* **第二十一届“挑战杯”全国大学生课外学术科技作品竞赛“揭榜挂帅”专项赛，国家级二等奖** (第一负责人)，共青团中央
+*2022.12* **研究生国家奖学金 (National Scholarship)**，因在教育技术学领域的卓越科研产出获评。
+- *2022.08* **“新一代人工智能教师成长营”优秀学员**，上海人工智能教育研究院
+- *2021.08* **RoboMaster 机甲大师青少年挑战赛优秀指导教师**，乐博机器人科技有限公司
+- *2019.06* **软件工程专业优秀毕业生 / 优秀毕业设计**，表彰在教育辅助软件开发方面的技术贡献。
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2025.09 - 至今*， **华中师范大学 (CCNU)**，教育技术学，博士在读 (Ph.D. Candidate)
+- *2022.09 - 2025.06*，**华中师范大学 (CCNU)**，现代教育技术，教育学硕士 (M.Ed.)
+- *2017.09 - 2022.06*，**洛阳师范学院 (LYNU)**，软件工程，工学学士 (B.Eng.)
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<div class="image-grid">
+    <div class="grid-item">
+        <img src='images/practice_1.jpg' alt="teaching_steam">
+        <div class="image-caption">小吃街</div>
+    </div>
+    <div class="grid-item">
+        <img src='images/2.jpg' alt="robomaster_coach">
+        <div class="image-caption">指导学生进行机甲大师调试</div>
+    </div>
+    <div class="grid-item">
+        <img src='images/practice_3.jpg' alt="challenge_cup_defense">
+        <div class="image-caption">挑战杯国家级决赛答辩</div>
+    </div>
+    <div class="grid-item">
+        <img src='images/practice_4.jpg' alt="ai_camp_certificate">
+        <div class="image-caption">新一代人工智能教师成长营</div>
+    </div>
+    <div class="grid-item">
+        <img src='images/practice_5.jpg' alt="c++_class">
+        <div class="image-caption">C++ 信息学奥赛课堂</div>
+    </div>
+    <div class="grid-item">
+        <img src='images/practice_6.jpg' alt="research_empirical">
+        <div class="image-caption">开展真实场景实证研究</div>
+    </div>
+</div>
+
+<style>
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 定义3列 */
+    gap: 15px; /* 图片之间的间距 */
+    margin-top: 20px;
+}
+.grid-item {
+    text-align: center;
+    border: 1px solid #ddd; /* 给图片加一个淡淡的边框 */
+    border-radius: 5px; /* 圆角 */
+    overflow: hidden; /* 确保图片和文字不超出边框 */
+    padding: 5px;
+}
+.grid-item img {
+    width: 100%;
+    height: 180px; /* 固定图片高度，保持整齐 */
+    object-fit: cover; /* 确保图片拉伸时不变形 */
+}
+.image-caption {
+    font-size: 13px; /* 说明文字大小 */
+    color: #666; /* 文字颜色 */
+    margin-top: 5px;
+    padding: 2px;
+}
+</style>
