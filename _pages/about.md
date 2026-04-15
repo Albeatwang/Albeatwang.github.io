@@ -17,7 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 个人简介
+
+你好！我是 **汪琪**，目前是 **华中师范大学** 教育技术学在读博士生。
+
+我是一名具有 **软件工程 (B.Eng.)**、**教育技术 (M.Ed.)** 与 **教育经济与管理** 多学科背景的研究者。这样的跨学科路径，让我能够从技术开发、教学实践、政策与管理三个维度理解教育数字化的复杂图景。
+
+在攻读博士学位前，我曾担任两年的 **STEAM 教师**与 **C++ 信息学奥赛教练**。这段一线教学经历让我深刻体会到：技术并非天然公平地惠及每一位学生，数字技能鸿沟、学习动机差异等问题，往往比技术本身更难逾越。正是这些现实困惑，驱动我走上了实证研究的道路。
+### 🔍 研究兴趣 | Research Interests
+我的研究核心在于利用 **实证研究 (Empirical Research)** 方法，探究以下相互交织的方向：
+* **数字不平等 (Digital Inequality)**：关注智能时代学生在 AI 资源与能力上的差距形成机制。
+* **人工智能教育 (AI in Education)**：探索 AI 介入后对教育公平的影响，以及如何科学开展人工智能教育。
+* **社会情感学习 (SEL)**：研究技术环境如何影响学生的心理健康、动机与社会情感发展。
+### 🛠️ 研究方法 | Methodologies
+得益于软件工程背景，我擅长利用跨学科工具进行深度数据挖掘，熟练运用：
+* **量化分析 (Quantitative Analysis)**：结构方程模型 (SEM)、潜剖面分析 (LPA)
+* **前沿方法 (Advanced Methods)**：心理测量网络分析 (Network Analysis)、机器学习 (Machine Learning)
+* **其它方法 (Development)**：PSM (倾向得分匹配)、HLM (多层线性模型)、分位数回归 (Quantile Regression)、夏普利值分解 (Shapley Value Decomposition)
+### 📧 联系方式 | Contact
+目前，我已在 **CSSCI 核心期刊** 及 **SSCI** 索引期刊上发表多篇学术论文。如果你对我的研究感兴趣，欢迎通过邮件与我交流：
+📩 [albertwangqi@mails.ccnu.edu.cn](mailto:albertwangqi@mails.ccnu.edu.cn)
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
