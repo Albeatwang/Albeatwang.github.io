@@ -50,11 +50,11 @@ redirect_from:
 
 <div class='paper-box-text' markdown="1">
 
-- **[数字化赋能乡村科学教育：重点、难点及推进策略](https://doi.org/10.13694/j.cnki.ddjylt.20250107.001)** | 付卫东,**汪琪**.*当代教育论坛*, 2025.<span style="color: #c62828; font-weight: bold;">[北大核心]</span>
+- **[数字化赋能乡村科学教育：重点、难点及推进策略](https://doi.org/10.13694/j.cnki.ddjylt.20250107.001)** 付卫东,**汪琪**.*当代教育论坛*, 2025.<span style="color: #c62828; font-weight: bold;">[北大核心]</span>
 
-- **[乡村教育数字化转型：价值意蕴、风险隐忧与策略调适](https://doi.org/10.13763/j.cnki.jhebnu.ese.2024.05.010)** | 付卫东,**汪琪**.*河北师范大学学报(教育科学版)*, 2024.<span style="color: #c62828; font-weight: bold;">[CSSCI]</span>
+- **[乡村教育数字化转型：价值意蕴、风险隐忧与策略调适](https://doi.org/10.13763/j.cnki.jhebnu.ese.2024.05.010)** 付卫东,**汪琪**.*河北师范大学学报(教育科学版)*, 2024.<span style="color: #c62828; font-weight: bold;">[CSSCI]</span>
 
-- **[“双减”背景下课后服务中科学教育加法能否促进中小学生非认知能力发展——基于6省30个县(区)的调查](https://kns.cnki.net/kcms2/article/abstract?v=5e51ekeyRJb42TweTKR9J4ZJaomI5HiA6Yq9GHbxpiHMZd2JDPa8CRpu_X0hrm6m2c0fEYDzslkGyspTD0a5gj_uS7Es1Us-Qf10WRgTEWkSIEI-3IytgbiHJOsHedQrDqtO0MJZtgyQ3DzTdTsZjrzJbuZexwc8&uniplatform=NZKPT&language=CHS)** | 付卫东 张忠梅 **汪琪** 胡依然.*中国电化教育*, 2024.<span style="color: #c62828; font-weight: bold;">[CSSCI]</span>
+- **[“双减”背景下课后服务中科学教育加法能否促进中小学生非认知能力发展——基于6省30个县(区)的调查](https://kns.cnki.net/kcms2/article/abstract?v=5e51ekeyRJb42TweTKR9J4ZJaomI5HiA6Yq9GHbxpiHMZd2JDPa8CRpu_X0hrm6m2c0fEYDzslkGyspTD0a5gj_uS7Es1Us-Qf10WRgTEWkSIEI-3IytgbiHJOsHedQrDqtO0MJZtgyQ3DzTdTsZjrzJbuZexwc8&uniplatform=NZKPT&language=CHS)**  付卫东 张忠梅 **汪琪** 胡依然.*中国电化教育*, 2024.<span style="color: #c62828; font-weight: bold;">[CSSCI]</span>
 ## 🌍 英文期刊论文
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 </div>
