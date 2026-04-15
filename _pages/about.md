@@ -87,23 +87,23 @@ redirect_from:
     </div>
     <div class="grid-item">
         <img src='images/2.jpg' alt="robomaster_coach">
-        <div class="image-caption">指导学生进行机甲大师调试</div>
+        <div class="image-caption">格物致知</div>
     </div>
     <div class="grid-item">
-        <img src='images/practice_3.jpg' alt="challenge_cup_defense">
-        <div class="image-caption">挑战杯国家级决赛答辩</div>
+        <img src='images/3.jpg' alt="challenge_cup_defense">
+        <div class="image-caption">曲项向天歌</div>
     </div>
     <div class="grid-item">
-        <img src='images/practice_4.jpg' alt="ai_camp_certificate">
-        <div class="image-caption">新一代人工智能教师成长营</div>
+        <img src='images/4.jpg' alt="ai_camp_certificate">
+        <div class="image-caption">填空之城</div>
     </div>
     <div class="grid-item">
-        <img src='images/practice_5.jpg' alt="c++_class">
-        <div class="image-caption">C++ 信息学奥赛课堂</div>
+        <img src='images/5.jpg' alt="c++_class">
+        <div class="image-caption">废墟中的孩子</div>
     </div>
     <div class="grid-item">
-        <img src='images/practice_6.jpg' alt="research_empirical">
-        <div class="image-caption">开展真实场景实证研究</div>
+        <img src='images/6.jpg' alt="research_empirical">
+        <div class="image-caption">对角线</div>
     </div>
 </div>
 
