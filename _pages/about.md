@@ -48,7 +48,7 @@ redirect_from:
 # 📝出版物 | Publications 
 ## 🧠 中文期刊论文 
 
-- **[数字化赋能乡村科学教育：重点、难点及推进策略](https://doi.org/10.13694/j.cnki.ddjylt.20250107.001)** 付卫东,**汪琪**.*当代教育论坛*, 2025.<span style="color: #c62828; font-weight: bold;">[北大核心]</span>
+- **[数字化赋能乡村科学教育：重点、难点及推进策略](https://doi.org/10.13694/j.cnki.ddjylt.20250107.001)** 付卫东,**汪琪**.*当代教育论坛*, 2025.<span style="color: #c62828; font-weight: bold;">[北大核心]</span>[[PDF]](assets/pdf/p25kexue.pdf)
 
 - **[乡村教育数字化转型：价值意蕴、风险隐忧与策略调适](https://doi.org/10.13763/j.cnki.jhebnu.ese.2024.05.010)** 付卫东,**汪琪**.*河北师范大学学报(教育科学版)*, 2024.<span style="color: #c62828; font-weight: bold;">[CSSCI]</span>
 
