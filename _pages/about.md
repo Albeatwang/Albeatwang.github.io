@@ -47,6 +47,7 @@ redirect_from:
 
 # 📝出版物 | Publications 
 ## 🧠 中文期刊论文 
+- **[中小学生数字教育产品使用类型与社会情感能力的关系研究：基于潜在剖面分析与网络分析](https://doi.org/10.13694/j.cnki.ddjylt.20250107.001)** 付卫东,**汪琪**.*杭州师范大学学报(社会科学版)*, 2026.<span style="color: #c62828; font-weight: bold;">[CSSCI]</span>[[PDF]](assets/pdf/p26wangluo.pdf)
 
 - **[数字化赋能乡村科学教育：重点、难点及推进策略](https://doi.org/10.13694/j.cnki.ddjylt.20250107.001)** 付卫东,**汪琪**.*当代教育论坛*, 2025.<span style="color: #c62828; font-weight: bold;">[北大核心]</span>[[PDF]](assets/pdf/p25kexue.pdf)
 
